@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Pauline
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+
+Name: Build-Information
+Build-Id: null
+Build-Number: null
+Build-Tag: null
+Manifest-Version: 0.0.1-alpha
+

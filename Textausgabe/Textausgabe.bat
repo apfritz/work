@@ -1,0 +1,1 @@
+java -cp ./target/Textausgabe.jar de.ig.textausgabe.Main
